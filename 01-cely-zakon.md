@@ -2137,52 +2137,111 @@ NA navazuje na historický Státní ústřední archiv — k 1. 1. 2005 změna n
 >
 > *- a) kontroluje výkon spisové služby u*
 >
->   *- 1. organizačních složek státu s celostátní působností s výjimkou těch, u kterých tuto působnost vykonává Archiv bezpečnostních složek,*
->   *- 2. státních příspěvkových organizací zřízených zákonem a státních příspěvkových organizací zřízených organizační složkou státu s celostátní působností,*
->   *- 3. veřejných výzkumných institucí zřízených organizační složkou státu s celostátní působností,*
->   *- 4. právnických osob s celostátní působností zřízených zákonem,*
+> *  - 1. organizačních složek státu s celostátní působností s výjimkou těch, u kterých tuto působnost vykonává Archiv bezpečnostních složek,*
+>
+> *  - 2. státních příspěvkových organizací zřízených zákonem a státních příspěvkových organizací zřízených organizační složkou státu s celostátní působností,*
+>
+> *  - 3. veřejných výzkumných institucí zřízených organizační složkou státu s celostátní působností,*
+>
+> *  - 4. právnických osob s celostátní působností zřízených zákonem,*
 >
 > *- b) provádí výběr archiválií ve skartačním řízení u*
 >
->   *- 1. původců uvedených v písmenu a),*
->   *- 2. původců uvedených v písmenu c), kteří si zřídili soukromý archiv,*
->   *- 3. vrcholných nebo obdobných orgánů původců uvedených v písmenu c), kteří požádají o výběr archiválií ve skartačním řízení,*
+> *  - 1. původců uvedených v písmenu a),*
+>
+> *  - 2. původců uvedených v písmenu c), kteří si zřídili soukromý archiv,*
+>
+> *  - 3. vrcholných nebo obdobných orgánů původců uvedených v písmenu c), kteří požádají o výběr archiválií ve skartačním řízení,*
 >
 > *- c) provádí výběr archiválií mimo skartační řízení u vrcholných nebo obdobných orgánů*
 >
->   *- 1. politických stran,*
->   *- 2. politických hnutí,*
->   *- 3. spolků,*
->   *- 4. odborových organizací,*
->   *- 5. organizací zaměstnavatelů,*
->   *- 6. profesních komor,*
->   *- 7. církví,*
->   *- 8. náboženských společností,*
->   *- 9. nadací,*
->   *- 10. nadačních fondů,*
->   *- 11. ústavů,*
->   *- 12. obecně prospěšných společností,*
+> *  - 1. politických stran,*
+>
+> *  - 2. politických hnutí,*
+>
+> *  - 3. spolků,*
+>
+> *  - 4. odborových organizací,*
+>
+> *  - 5. organizací zaměstnavatelů,*
+>
+> *  - 6. profesních komor,*
+>
+> *  - 7. církví,*
+>
+> *  - 8. náboženských společností,*
+>
+> *  - 9. nadací,*
+>
+> *  - 10. nadačních fondů,*
+>
+> *  - 11. ústavů,*
+>
+> *  - 12. obecně prospěšných společností,*
 >
 > *- d) provádí výběr archiválií mimo skartační řízení u dokumentů nabídnutých České republice darem nebo ke koupi a u dokumentů nalezených nebo u dokumentů vlastníků, kteří o to požádají,*
 >
 > *- e) rozhoduje o námitkách proti protokolu o provedeném skartačním řízení a protokolu o provedeném výběru archiválií mimo skartační řízení (§ 10 odst. 3 a § 12 odst. 3) podaných původcem nebo vlastníkem dokumentu, u kterého provádí výběr archiválií,*
+>
 > *- f) posuzuje protokoly o provedeném skartačním řízení a o provedeném výběru archiválií mimo skartační řízení specializovaných archivů organizačních složek státu s celostátní působností a jimi zřízených státních příspěvkových organizací a specializovaných archivů právnických osob zřízených zákonem s celostátní působností,*
+>
 > *- g) rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů anebo kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do jeho péče nebo do péče soukromých archivů, u nichž provádí výběr archiválií,*
+>
 > *- h) ukládá správní tresty podle tohoto zákona za přestupky fyzickým a právnickým osobám, u nichž kontroluje výkon spisové služby a u nichž provádí výběr archiválií, včetně těch, které zřídily specializované archivy nebo soukromé archivy,*
+>
 > *- i) vyhledává v archiváliích náležejících do jeho péče archiválie pro potřeby správních úřadů a ostatních organizačních složek státu, orgánů územních samosprávných celků, právnických a fyzických osob, pořizuje z nich výpisy, opisy, kopie a repliky,*
+>
 > *- j) umožňuje za podmínek stanovených v tomto zákoně nahlížet do archiválií náležejících do jeho péče,*
+>
 > *- k) vede příslušnou evidenci archiválií podle tohoto zákona,*
+>
 > *- l) provádí kontrolu archivních kulturních památek a národních kulturních památek, které vede ve své evidenci a které nenáleží do péče archivů,*
+>
 > *- m) plní na úseku archivnictví úkoly vyplývající z mezinárodních smluv,*
+>
 > *- n) vykonává další pravomoci stanovené tímto nebo jiným zákonem.*
 >
 > *(2) Národní archiv na úseku péče o archiválie*
 >
-> *(...) (pečuje o archiválie převzaté od původců, přijímá nabídky pro ČR, poskytuje bezplatné služby vlastníkům, provádí prověrku stavu AKP/NKP, inventury, spolupracuje s ostatními archivy, vykonává vědeckou a výzkumnou činnost, plní úkoly ústředního VVP, zřizuje knihovnu, vykonává vydavatelskou činnost, konzervaci a restaurování, plní další odborné úkoly...)*
+> *- a) pečuje o archiválie převzaté od původců uvedených v odstavci 1 písm. a) a c) a dále o archiválie vzniklé z činnosti vrcholných orgánů českého státu, Československé republiky, Československé socialistické republiky, České a Slovenské Federativní Republiky, České socialistické republiky, České republiky s výjimkou těch, o něž pečuje Archiv bezpečnostních složek nebo specializované archivy zřízené ministerstvy, dalšími ústředními správními úřady, Kanceláří Poslanecké sněmovny, Kanceláří Senátu, Kanceláří prezidenta republiky, Českou národní bankou, bezpečnostními sbory nebo zpravodajskými službami České republiky, jakož i státních a samosprávních orgánů a organizací pro zemi Českou v minulosti, ústředních orgánů okupační správy v letech 1939 až 1945 a vlády Československé republiky v exilu v letech 1939 až 1945 a o archiválie vzniklé z činnosti centrálních úřadů habsburské monarchie a umožňuje nahlížení do nich,*
+>
+> *- b) přijímá za Českou republiku nabídky ke koupi, k darování a úschově archiválií a uzavírá za Českou republiku příslušné smlouvy,*
+>
+> *- c) poskytuje vlastníkům archiválií bezplatné odborné, informační a poradenské služby,*
+>
+> *- d) provádí prověrku fyzického stavu archivních kulturních památek a národních kulturních památek, pokud jsou mu svěřeny do péče,*
+>
+> *- e) provádí inventuru archiválií vyhlášenou ministerstvem,*
+>
+> *- f) spolupracuje s ostatními archivy a rozvíjí styky s vědeckými, kulturními, školskými a dalšími institucemi za účelem výměny zkušeností v odborných otázkách, ve vědeckém bádání a kulturně výchovném, hospodářském a vlastivědném využívání archiválií,*
+>
+> *- g) provádí vědeckou a výzkumnou činnost v oblasti archivnictví, pomocných věd historických a příbuzných vědních oborů,*
+>
+> *- h) plní úkoly ústředního vědeckovýzkumného pracoviště na úseku preventivní péče o archiválie, konzervace a restaurování archiválií, uchovávání a zpřístupňování nových forem nosičů informací včetně dokumentů v digitální podobě; v této oblasti vykonává funkci odborného metodického a školicího centra,*
+>
+> *- i) zřizuje specializovanou knihovnu pro obor archivnictví a výkonu spisové služby,*
+>
+> *- j) vykonává vydavatelskou a publikační činnost v oboru archivnictví a výkonu spisové služby, dějin správy, pomocných věd historických a historie,*
+>
+> *- k) provádí konzervaci a restaurování archiválií,*
+>
+> *- l) plní další odborné archivní úkoly uložené tímto zákonem.*
 >
 > *(3) Národní archiv na úseku péče o archiválie v digitální podobě*
 >
-> *(...) (ukládá archiválie v digitální podobě NA, ABS, SOA a dalších, spravuje národní portál, plní metodickou a poradenskou funkci, provádí vědeckou činnost, poskytuje archivům služby, vydává závazné stanovisko k oprávnění k ukládání digitálních archiválií...)*
+> *- a) ukládá archiválie v digitální podobě náležející do jeho péče a archiválie v digitální podobě náležející do péče Archivu bezpečnostních složek, státních oblastních archivů a archivů, které nejsou digitálními archivy a neukládají archiválie v digitální podobě na základě písemné dohody v jiném digitálním archivu; nejde-li o archiválie v digitální podobě náležející do jeho péče, Národní archiv u uložených archiválií v digitální podobě pouze zajišťuje zachování neporušitelnosti jejich obsahu a čitelnosti,*
+>
+> *- b) spravuje národní portál,*
+>
+> *- c) plní pro archivy metodickou a poradenskou funkci v oblasti předarchivní péče o dokumenty v digitální podobě a v oblasti digitalizace archiválií v analogové podobě,*
+>
+> *- d) provádí vědeckou a výzkumnou činnost na úseku životního cyklu dokumentů v digitální podobě,*
+>
+> *- e) poskytuje archivům údaje potřebné pro evidenci archiválií v digitální podobě a služby pro shromažďování a zpřístupňování popisů archiválií v digitální podobě a replik archiválií v digitální podobě,*
+>
+> *- f) vydává závazné stanovisko k žádosti o udělení oprávnění k ukládání archiválií v digitální podobě.*
+>
+> *Státní oblastní archivy*
 
 **Výklad:**
 
@@ -2352,44 +2411,129 @@ Toto je dispozitivní zákonné určení — užívá se subsidiárně k § 11 o
 >
 > *- a) kontroluje výkon spisové služby u*
 >
->   *- 1. organizačních složek státu s jinou než celostátní působností,*
->   *- 2. státních příspěvkových organizací zřízených organizační složkou státu s jinou než celostátní působností,*
->   *- 3. státních podniků,*
->   *- 4. právnických osob zřízených zákonem s jinou než celostátní působností,*
->   *- 5. územních samosprávných celků,*
->   *- 6. organizačních složek územních samosprávných celků,*
->   *- 7. právnických osob zřízených nebo založených územním samosprávným celkem,*
->   *- 8. vysokých škol,*
->   *- 9. škol,*
->   *- 10. zdravotních pojišťoven,*
->   *- 11. veřejných výzkumných institucí s výjimkou těch zřízených organizační složkou státu s celostátní působností,*
+> *  - 1. organizačních složek státu s jinou než celostátní působností,*
+>
+> *  - 2. státních příspěvkových organizací zřízených organizační složkou státu s jinou než celostátní působností,*
+>
+> *  - 3. státních podniků,*
+>
+> *  - 4. právnických osob zřízených zákonem s jinou než celostátní působností,*
+>
+> *  - 5. územních samosprávných celků,*
+>
+> *  - 6. organizačních složek územních samosprávných celků,*
+>
+> *  - 7. právnických osob zřízených nebo založených územním samosprávným celkem,*
+>
+> *  - 8. vysokých škol,*
+>
+> *  - 9. škol,*
+>
+> *  - 10. zdravotních pojišťoven,*
+>
+> *  - 11. veřejných výzkumných institucí s výjimkou těch zřízených organizační složkou státu s celostátní působností,*
 >
 > *- b) provádí výběr archiválií ve skartačním řízení u*
 >
->   *- 1. původců uvedených v písmenu a),*
->   *- 2. původců uvedených v písmenu c) bodech 1 až 12, kteří požádají o výběr archiválií ve skartačním řízení, s výjimkou vrcholných nebo obdobných orgánů těchto původců a s výjimkou původců, kteří si zřídili soukromý archiv,*
->   *- 3. původců uvedených v písmenu c) bodech 13 až 15, kteří si zřídili soukromý archiv nebo požádají o výběr archiválií ve skartačním řízení,*
+> *  - 1. původců uvedených v písmenu a),*
 >
-> *- c) provádí výběr archiválií mimo skartační řízení u (15 typů původců — politické strany, hnutí, spolky, odbory, organizace zaměstnavatelů, profesní komory, církve, náboženské společnosti, nadace, nadační fondy, ústavy, obecně prospěšné společnosti, obchodní společnosti, družstva, notáři) s výjimkou vrcholných orgánů,*
+> *  - 2. původců uvedených v písmenu c) bodech 1 až 12, kteří požádají o výběr archiválií ve skartačním řízení, s výjimkou vrcholných nebo obdobných orgánů těchto původců a s výjimkou původců, kteří si zřídili soukromý archiv,*
+>
+> *  - 3. původců uvedených v písmenu c) bodech 13 až 15, kteří si zřídili soukromý archiv nebo požádají o výběr archiválií ve skartačním řízení,*
+>
+> *- c) provádí výběr archiválií mimo skartační řízení u*
+>
+> *  - 1. politických stran,*
+>
+> *  - 2. politických hnutí,*
+>
+> *  - 3. spolků,*
+>
+> *  - 4. odborových organizací,*
+>
+> *  - 5. organizací zaměstnavatelů,*
+>
+> *  - 6. profesních komor,*
+>
+> *  - 7. církví,*
+>
+> *  - 8. náboženských společností,*
+>
+> *  - 9. nadací,*
+>
+> *  - 10. nadačních fondů,*
+>
+> *  - 11. ústavů,*
+>
+> *  - 12. obecně prospěšných společností,*
+>
+> *  - 13. obchodních společností,*
+>
+> *  - 14. družstev s výjimkou bytových družstev,*
+>
+> *  - 15. notářů,*
+>
+> *s výjimkou vrcholných nebo obdobných orgánů původců uvedených v bodech 1 až 12,*
 >
 > *- d) provádí výběr archiválií mimo skartační řízení u dokumentů nabídnutých České republice darem nebo ke koupi a u dokumentů nalezených nebo u dokumentů vlastníků, kteří o to požádají,*
 >
 > *- e) zprošťuje povinnosti zachovávat mlčenlivost u zaměstnanců (§ 14 odst. 1) nebo zřizovatelů archivů (§ 14 odst. 2), s výjimkou zaměstnanců uvedených v § 44 písm. e), specializovaných nebo bezpečnostních archivů zřizovaných ministerstvy, dalšími ústředními správními úřady, Kanceláří Poslanecké sněmovny, Kanceláří Senátu, Kanceláří prezidenta republiky, Českou národní bankou, bezpečnostními sbory nebo zpravodajskými službami České republiky,*
 >
-> *- f) rozhoduje o námitkách proti protokolu (§ 10 odst. 3 a § 12 odst. 3) podaných původcem nebo vlastníkem dokumentu, u kterého provádí výběr archiválií,*
-> *- g) rozhoduje o námitkách původce nebo vlastníka dokumentu proti protokolu Archivu hlavního města Prahy, Archivu města Brna, Archivu města Ostravy, Archivu města Plzně a Archivu města Ústí nad Labem a dohlíží na jejich protokoly,*
-> *- h) posuzuje protokoly specializovaných archivů, u nichž tuto působnost nevykonává Národní archiv,*
+> *- f) rozhoduje o námitkách proti protokolu o provedeném skartačním řízení a protokolu o provedeném výběru archiválií mimo skartační řízení (§ 10 odst. 3 a § 12 odst. 3) podaných původcem nebo vlastníkem dokumentu, u kterého provádí výběr archiválií,*
+>
+> *- g) rozhoduje o námitkách původce nebo vlastníka dokumentu proti protokolu o provedeném skartačním řízení a protokolu o provedeném výběru archiválií mimo skartační řízení Archivu hlavního města Prahy, Archivu města Brna, Archivu města Ostravy, Archivu města Plzně a Archivu města Ústí nad Labem a dohlíží na jejich protokoly o provedeném skartačním řízení a o provedeném výběru archiválií mimo skartační řízení,*
+>
+> *- h) posuzuje protokoly o provedeném skartačním řízení a o provedeném výběru archiválií mimo skartační řízení specializovaných archivů, u nichž tuto působnost nevykonává Národní archiv,*
+>
 > *- i) rozhoduje o svěření ohrožených archiválií do péče archivu,*
-> *- j)–l) rozhoduje o podání badatele, kterému nebylo umožněno nahlížení/kopie u archivů ve své územní působnosti,*
-> *- m) ukládá správní tresty,*
-> *- n)–q) umožňuje nahlížení do archiválií ve své péči, vede evidenci, kontroluje AKP a plní mezinárodní úkoly,*
-> *- r) vyjadřuje se k žádosti o koncesi k vedení spisovny a kontroluje stavebně technický stav a bezpečnostní zajištění provozoven,*
-> *- s) kontroluje plnění povinností podnikatele, kterému byla udělena koncese k vedení spisovny,*
+>
+> *- j) rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů, kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do jeho péče,*
+>
+> *- k) rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů, kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do péče specializovaných archivů, s výjimkou specializovaných archivů a bezpečnostních archivů zřízených ministerstvy, dalšími ústředními správními úřady, Kanceláří Poslanecké sněmovny, Kanceláří Senátu, Kanceláří prezidenta republiky, Českou národní bankou, bezpečnostními sbory a zpravodajskými službami České republiky,*
+>
+> *- l) rozhoduje o podání badatele, kterému nebylo umožněno nahlížení do archiválií nebo pořizování výpisů, opisů, kopií archiválií v analogové podobě nebo replik archiválií v digitální podobě náležejících do péče archivů územních samosprávných celků nebo soukromých archivů, u nichž provádí výběr archiválií,*
+>
+> *- m) ukládá správní tresty podle tohoto zákona za přestupky fyzickým a právnickým osobám, u nichž tuto působnost nevykonává Národní archiv,*
+>
+> *- n) umožňuje za podmínek stanovených v tomto zákoně nahlížet do archiválií náležejících do jeho péče,*
+>
+> *- o) vede příslušnou evidenci archiválií podle tohoto zákona,*
+>
+> *- p) provádí kontrolu archivních kulturních památek, které vede ve své evidenci a které nenáleží do péče archivů,*
+>
+> *- q) plní na úseku archivnictví úkoly vyplývající z mezinárodních smluv,*
+>
+> *- r) vyjadřuje se k žádosti o koncesi k vedení spisovny a kontroluje stavebně technický stav a bezpečnostní zajištění provozoven určených k výkonu koncesované živnosti vedení spisovny,*
+>
+> *- s) kontroluje plnění povinností podnikatele, kterému byla udělena koncese k vedení spisovny, stanovených v § 3 odst. 4,*
+>
 > *- t) vykonává další pravomoci stanovené tímto nebo jiným zákonem.*
 >
-> *(2) Státní oblastní archiv v oblasti archivní péče (...)
+> *(2) Státní oblastní archiv v oblasti archivní péče*
 >
-> (pečuje o archiválie převzaté od původců, přijímá nabídky pro ČR, poskytuje bezplatné služby vlastníkům, plní úkoly oblastního a okresního VVP, vyhledává a pořizuje výpisy, zřizuje knihovnu, vykonává vydavatelskou činnost, provádí prověrky AKP/NKP, inventury, konzervaci a restaurování...)*
+> *- a) pečuje o archiválie převzaté od původců uvedených v odstavci 1 písm. a) a c); o archiválie právnických osob zapsaných v obchodním rejstříku pečuje tehdy, jestliže tito původci zanikli bez právního nástupce; péče o archiválie v digitální podobě nezahrnuje zachování neporušitelnosti jejich obsahu a čitelnosti,*
+>
+> *- b) přijímá za Českou republiku nabídky ke koupi, k darování a úschově archiválií a uzavírá za Českou republiku příslušné smlouvy,*
+>
+> *- c) poskytuje vlastníkům archiválií bezplatné odborné informační a poradenské služby,*
+>
+> *- d) plní úkoly oblastního a okresního vědeckovýzkumného pracoviště na úseku archivnictví, pomocných věd historických a regionální historie, přičemž spolupracuje s ostatními archivy a rozvíjí styky s vědeckými, kulturními, školskými a dalšími institucemi za účelem výměny zkušeností v odborných otázkách, ve vědeckém bádání a kulturně výchovném, hospodářském a vlastivědném využívání archiválií,*
+>
+> *- e) vyhledává v archiváliích náležejících do jeho péče archiválie pro potřeby správních úřadů a ostatních organizačních složek státu, orgánů územních samosprávných celků, právnických a fyzických osob, pořizuje z nich výpisy, opisy, kopie a repliky,*
+>
+> *- f) zřizuje specializované knihovny pro obor archivnictví, spisové služby a regionální historie,*
+>
+> *- g) vykonává vydavatelskou a publikační činnost v oboru archivnictví a spisové služby, dějin správy, pomocných věd historických a historie,*
+>
+> *- h) provádí prověrku fyzického stavu archivních kulturních památek a národních kulturních památek, pokud jsou mu svěřeny do péče,*
+>
+> *- i) provádí inventuru archiválií vyhlášenou ministerstvem,*
+>
+> *- j) provádí konzervaci a restaurování archiválií,*
+>
+> *- k) plní další odborné archivní úkoly uložené tímto zákonem.*
+>
+> *Další správní úřady na úseku archivnictví a výkonu spisové služby*
 
 **Výklad:**
 
@@ -4524,7 +4668,7 @@ ZArch tedy **plně rekodifikuje** archivnictví — zachovává jen tu část pr
 
 > **§ 88**
 >
-> *V § 12 odst. 1 písm. e) zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění (...) se za slovo „archivnictví“ vkládají slova „a spisovou službu“.*
+> *V § 12 odst. 1 písm. e) zákona č. 2/1969 Sb., o zřízení ministerstev a jiných ústředních orgánů státní správy České republiky, ve znění zákona č. 60/1988 Sb., zákona č. 173/1989 Sb., zákona č. 9/1990 Sb., zákona č. 283/1991 Sb., zákona č. 19/1992 Sb., zákona č. 474/1992 Sb., zákona č. 21/1993 Sb., zákona č. 148/1998 Sb., zákona č. 130/2000 Sb., zákona č. 239/2000 Sb., zákona č. 458/2000 Sb. a zákona č. 62/2003 Sb., se za slovo „archivnictví“ vkládají slova „a spisovou službu“.*
 
 **Výklad:**
 
@@ -4544,11 +4688,15 @@ Praktické důsledky:
 
 > **§ 89**
 >
-> *Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), (...) se mění takto:*
+> *Zákon č. 455/1991 Sb., o živnostenském podnikání (živnostenský zákon), ve znění zákona č. 231/1992 Sb., zákona č. 591/1992 Sb., zákona č. 600/1992 Sb., zákona č. 273/1993 Sb., zákona č. 303/1993 Sb., zákona č. 38/1994 Sb., zákona č. 42/1994 Sb., zákona č. 136/1994 Sb., zákona č. 200/1994 Sb., zákona č. 237/1995 Sb., zákona č. 286/1995 Sb., zákona č. 94/1996 Sb., zákona č. 95/1996 Sb., zákona č. 147/1996 Sb., zákona č. 19/1997 Sb., zákona č. 49/1997 Sb., zákona č. 61/1997 Sb., zákona č. 79/1997 Sb., zákona č. 217/1997 Sb., zákona č. 280/1997 Sb., zákona č. 15/1998 Sb., zákona č. 83/1998 Sb., zákona č. 157/1998 Sb., zákona č. 167/1998 Sb., zákona č. 159/1999 Sb., zákona č. 356/1999 Sb., zákona č. 358/1999 Sb., zákona č. 360/1999 Sb., zákona č. 363/1999 Sb., zákona č. 27/2000 Sb., zákona č. 29/2000 Sb., zákona č. 121/2000 Sb., zákona č. 122/2000 Sb., zákona č. 123/2000 Sb., zákona č. 124/2000 Sb., zákona č. 149/2000 Sb., zákona č. 151/2000 Sb., zákona č. 158/2000 Sb., zákona č. 247/2000 Sb., zákona č. 249/2000 Sb., zákona č. 258/2000 Sb., zákona č. 309/2000 Sb., zákona č. 362/2000 Sb., zákona č. 409/2000 Sb., zákona č. 458/2000 Sb., zákona č. 100/2001 Sb., zákona č. 120/2001 Sb., zákona č. 164/2001 Sb., zákona č. 256/2001 Sb., zákona č. 274/2001 Sb., zákona č. 477/2001 Sb., zákona č. 478/2001 Sb., zákona č. 86/2002 Sb., zákona č. 119/2002 Sb., zákona č. 174/2002 Sb., zákona č. 281/2002 Sb., zákona č. 308/2002 Sb., zákona č. 320/2002 Sb., zákona č. 88/2003 Sb., zákona č. 130/2003 Sb., zákona č. 162/2003 Sb., zákona č. 224/2003 Sb., zákona č. 228/2003 Sb., zákona č. 274/2003 Sb., zákona č. 354/2003 Sb., zákona č. 438/2003 Sb., zákona č. 38/2004 Sb., zákona č. 119/2004 Sb., zákona č. 167/2004 Sb., zákona č. 257/2004 Sb. a zákona č. 326/2004 Sb., se mění takto:*
 >
-> *- 1. V § 3 odst. 3 (...) se doplňuje písmeno af), které (...) zní: „af) archivnictví.“*
+> *- 1. V § 3 odst. 3 se na konci písmene ae) tečka nahrazuje čárkou a doplňuje se písmeno af), které včetně poznámky pod čarou č. 23o) zní:*
 >
-> *- 2. V příloze č. 3 KONCESOVANÉ ŽIVNOSTI, skupina 314: Ostatní se na konci doplňují slova „Vedení spisovny“ (...) „Úplné střední vzdělání (...) a 3 roky praxe v administrativě“ (...) „Schválení provozovny a bezúhonnost všech zaměstnanců (...)“ (...) „Státní oblastní archiv příslušný podle místa provozovny“ (...) „§ 68 odst. 1 zákona č. 499/2004 Sb. (...)“.*
+> *- „af) archivnictví.23o)*
+>
+> *23o) Zákon č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů.“.*
+>
+> *- 2. V příloze č. 3 KONCESOVANÉ ŽIVNOSTI, skupina 314: Ostatní se na konci v sloupci 1 doplňují slova „Vedení spisovny“, v sloupci 2 se doplňují slova „Úplné střední vzdělání nebo úplné střední odborné vzdělání a 3 roky praxe v administrativě“, v sloupci 3 se doplňují slova „Schválení provozovny a bezúhonnost všech zaměstnanců (§ 6 odst. 2 zákona č. 455/1991 Sb.)“, v sloupci 4 se doplňují slova „Státní oblastní archiv příslušný podle místa provozovny“ a v sloupci 5 se doplňují slova „§ 68 odst. 1 zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů“.*
 
 **Výklad:**
 
@@ -4573,13 +4721,11 @@ V **příloze č. 3** ŽZ (koncesované živnosti) se doplňuje **„Vedení spi
 
 > **§ 90**
 >
-> #### Přechodná ustanovení
->
 > *(1) Živnostenská oprávnění pro živnosti ohlašovací volné, na jejichž základě byla dosud provozována činnost, která se tímto zákonem mění na živnost koncesovanou „vedení spisovny“, zanikají uplynutím 1 roku ode dne nabytí účinnosti tohoto zákona, není-li dále stanoveno jinak.*
 >
-> *(2) Právnické a fyzické osoby, kterým ke dni nabytí účinnosti tohoto zákona trvá živnostenské oprávnění podle odstavce 1 a které hodlají po uplynutí lhůty stanovené v odstavci 1 nadále provozovat činnosti, jež jsou ode dne nabytí účinnosti tohoto zákona předmětem koncesované živnosti „vedení spisovny“, musí ve lhůtě podle odstavce 1 požádat o udělení koncese (...) Za tohoto předpokladu mohou ve své činnosti pokračovat na základě původního živnostenského oprávnění až do dne nabytí právní moci rozhodnutí o žádosti o udělení koncese.*
+> *(2) Právnické a fyzické osoby, kterým ke dni nabytí účinnosti tohoto zákona trvá živnostenské oprávnění podle odstavce 1 a které hodlají po uplynutí lhůty stanovené v odstavci 1 nadále provozovat činnosti, jež jsou ode dne nabytí účinnosti tohoto zákona předmětem koncesované živnosti „vedení spisovny“, musí ve lhůtě podle odstavce 1 požádat o udělení koncese a žádost doložit doklady prokazujícími splnění zvláštních podmínek provozování živnosti. Za tohoto předpokladu mohou ve své činnosti pokračovat na základě původního živnostenského oprávnění až do dne nabytí právní moci rozhodnutí o žádosti o udělení koncese.*
 >
-> *(3) Ohlášení živnosti doručené živnostenskému úřadu přede dnem nabytí účinnosti tohoto zákona (...) se považuje za žádost o koncesi (...).*
+> *(3) Ohlášení živnosti doručené živnostenskému úřadu přede dnem nabytí účinnosti tohoto zákona a vztahující se podle tohoto zákona k živnosti koncesované „vedení spisovny“ se považuje za žádost o koncesi, nebylo-li řízení ukončeno přede dnem nabytí účinnosti tohoto zákona. Nedokončená řízení ve věci vydání živnostenského oprávnění se dokončí podle nové právní úpravy.*
 >
 > *(4) Úkony provedené podle odstavců 1 a 2 jsou osvobozeny od správních poplatků.*
 
@@ -4599,13 +4745,27 @@ V **příloze č. 3** ŽZ (koncesované živnosti) se doplňuje **„Vedení spi
 
 > **§ 91**
 >
-> *Zákon č. 301/2000 Sb., o matrikách, jménu a příjmení (...) se mění takto:*
+> *Zákon č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění zákona č. 320/2002 Sb., zákona č. 578/2002 Sb. a zákona č. 165/2004 Sb., se mění takto:*
 >
-> *- 1.–2. V § 23: druhopisy matričních knih a sbírky listin se po uplynutí stanovené doby předávají k archivaci příslušnému státnímu oblastnímu archivu. V hlavním městě Praze zůstávají uloženy v Archivu hlavního města Prahy.*
+> *- 1. V § 23 se na konci odstavce 2 doplňují slova „, není-li dále stanoveno jinak“.*
 >
-> *- 3. V § 23 odst. 5: matriční knihy musí být ve SOA uloženy odděleně od druhopisů matričních knih.*
+> *- 2. V § 23 odstavec 4 zní:*
 >
-> *- 4. V § 56: matriční doklad (...) z matriční knihy uložené v Národním archivu nebo Vojenském historickém archivu vystaví Úřad městské části Praha 1. (...)*
+> *„(4) Po uplynutí stanovené doby se druhopisy matričních knih a sbírky listin předají k archivaci příslušnému státnímu oblastnímu archivu. V hlavním městě Praze zůstanou uloženy v Archivu hlavního města Prahy.“.*
+>
+> *- 3. V § 23 se doplňuje odstavec 5, který zní:*
+>
+> *„(5) Matriční knihy musí být ve státních oblastních archivech uloženy odděleně od druhopisů matričních knih, popřípadě sbírek listin.“.*
+>
+> *- 4. V § 56 se za odstavec 1 vkládají nové odstavce 2 a 3, které znějí:*
+>
+> *„(2) Matriční doklad, který má být vydán ze zápisu v matriční knize uložené v Národním archivu nebo ve Vojenském historickém archivu, vystaví Úřad městské části Praha 1.*
+>
+> *(3) Matriční doklad, který má být vydán ze zápisu v matriční knize vedené do 31. prosince 1949 pro území hlavního města Prahy, vydá Úřad městské části Praha 1 a pro území města Brna Úřad městské části Brno-střed.“.*
+>
+> *Dosavadní odstavec 2 se označuje jako odstavec 4.*
+>
+> *- 5. V § 56 odst. 4 se slova „odstavce 1“ nahrazují slovy „odstavců 1 až 3“.*
 
 **Výklad:**
 
@@ -4629,15 +4789,15 @@ Z matriční knihy uložené v **Národním archivu nebo Vojenském historickém
 
 > **§ 92**
 >
-> #### Přechodná ustanovení
->
-> *(1) Po uplynutí lhůt jsou uloženy*
+> *(1) Po uplynutí lhůt stanovených v § 23 zákona č. 301/2000 Sb., o matrikách, jménu a příjmení a o změně některých souvisejících zákonů, ve znění zákona č. 320/2002 Sb., zákona č. 578/2002 Sb. a tohoto zákona, jsou uloženy*
 >
 > *- a) matriční knihy z území hlavního města Prahy v Archivu hlavního města Prahy,*
-> *- b) matriční knihy, včetně druhopisů, židovských obcí z území České republiky v Národním archivu,*
+>
+> *- b) matriční knihy, včetně druhopisů a popřípadě sbírek listin, židovských obcí z území České republiky v Národním archivu,*
+>
 > *- c) vojenské matriční knihy z území České republiky ve Vojenském historickém archivu.*
 >
-> *(2) Do 10 let ode dne nabytí účinnosti tohoto zákona vyhotoví Národní archiv mikrografické kopie matričních knih a druhopisů matričních knih židovských obcí (...) a uloží je odděleně. Ve stejné lhůtě vyhotoví Vojenský historický archiv mikrografické kopie matričních knih u něj uložených a předá je Národnímu archivu.*
+> *(2) Do 10 let ode dne nabytí účinnosti tohoto zákona vyhotoví Národní archiv mikrografické kopie matričních knih a druhopisů matričních knih židovských obcí z území České republiky z období do roku 1949 a uloží je odděleně. Ve stejné lhůtě vyhotoví Vojenský historický archiv mikrografické kopie matričních knih u něj uložených a předá je Národnímu archivu.*
 
 **Výklad:**
 
