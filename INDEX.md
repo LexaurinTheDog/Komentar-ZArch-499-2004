@@ -15,6 +15,10 @@
 ## Vazby
 [ZDS 300/2008](/home/vojtech/Komentar-ZDS-300-2008/), eIDAS, [GDPR 110/2019](/home/vojtech/Komentar-GDPR-110-2019/), [ZOÚI 412/2005](/home/vojtech/Komentar-ZOUI-412-2005/).
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
