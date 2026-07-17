@@ -142,3 +142,127 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | prováděcí právní předpis stanoví; určí | [§ 9](https://e-sbirka.gov.cz/sb/2004/499#par_9); [§ 10](https://e-sbirka.gov.cz/sb/2004/499#par_10); [§ 12](https://e-sbirka.gov.cz/sb/2004/499#par_12); [§ 15](https://e-sbirka.gov.cz/sb/2004/499#par_15); [§ 19](https://e-sbirka.gov.cz/sb/2004/499#par_19) |
 | Oprávnění a povinnost | musí; jsou povinny; jsou povinni; má právo | [§ 2](https://e-sbirka.gov.cz/sb/2004/499#par_2); [§ 7](https://e-sbirka.gov.cz/sb/2004/499#par_7); [§ 14](https://e-sbirka.gov.cz/sb/2004/499#par_14); [§ 16](https://e-sbirka.gov.cz/sb/2004/499#par_16); [§ 24](https://e-sbirka.gov.cz/sb/2004/499#par_24) |
 | Domněnky, fikce a účinkové konstrukce | má se za to; považuje se za | [§ 37](https://e-sbirka.gov.cz/sb/2004/499#par_37); [§ 90](https://e-sbirka.gov.cz/sb/2004/499#par_90) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 499/2004 Sb., o archivnictví a spisové službě (ZArch) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje s vymezenou skutkovou podstatou určitý deontický následek. Nauka rozlišuje **objektivní modality**, tj. deontické operátory působící na jednání jako takové (příkaz, zákaz, dovolení), a od nich odvozené **subjektivní modality**, jimiž se stejný normativní obsah promítá do vztahu mezi konkrétními subjekty (oprávnění a jemu korelativní povinnost). Klasické trojici příkaz — zákaz — dovolení odpovídají tři základní deontické operátory: povinnost něco konat (příkaz), povinnost něčeho se zdržet (zákaz) a absence takové povinnosti (dovolení). ZArch všechny tři čistě objektivní modality používá a doplňuje je čtvrtou, obsahově odlišnou kategorií — **zmocněním**, tj. kompetenční normou, která nezakládá jednání dovolené či přikázané všem adresátům, nýbrž propůjčuje určenému orgánu pravomoc autoritativně měnit právní poměry (vydat rozhodnutí, souhlas, prováděcí předpis).
+
+Subjektivní modality stojí na **korelativitě oprávnění a povinnosti**: každému subjektivnímu právu jednoho subjektu zásadně odpovídá povinnost subjektu jiného (typicky veřejné moci) toto právo respektovat, případně aktivně naplnit. V ZArch je tato korelativita zřetelná zejména u vlastníka či držitele archiválie: zákon mu na jedné straně ukládá materiální povinnosti péče a nabídkové povinnosti (§ 25, § 28), na druhé straně mu přiznává subjektivní právo na bezplatné služby (§ 24). **Normativní výrazy** jsou jazykové signály modality: „je povinen", „jsou povinni", „mají povinnost" (příkaz/povinnost), „nelze", „se odepře", „zakazuje se" (zákaz), „může", „lze" (dovolení a zmocnění, s významovým rozlišením podle adresáta), „má právo", „jsou oprávněny" (oprávnění).
+
+Zvláštní kategorii tvoří **domněnky a fikce**. Domněnka (praesumptio) předjímá existenci určité skutečnosti; je-li **vyvratitelná**, přesouvá důkazní břemeno na toho, kdo tvrdí opak, je-li **nevyvratitelná**, důkaz opaku vylučuje. **Fikce** naproti tomu prohlašuje za existující něco, o čem se ví, že tomu tak reálně není (nebo být nemusí) — vytváří normativní obsah bez ohledu na skutkový stav a slouží legislativní ekonomii tím, že na fingovanou skutečnost navazuje týž režim jako na skutečnost pravou. ZArch využívá fikci k tomu, aby dokumenty získané mimo standardní proceduru podřadil pod režim archiválií (§ 11 odst. 5).
+
+### Příkaz
+
+Příkaz ukládá adresátovi povinnost aktivního konání (facere) — chránit hodnotu, něco strpět nebo poskytnout. V ZArch jsou příkazy zaměřeny především na **materiální ochranu archivního dědictví** a na **procesní ochranu zájmu státu**. Charakteristickým výrazem je „je povinen"; u § 28 odst. 1 jde o povinnost konat směřující k nabídce archiválie ke koupi, kterou zákon zakotvuje zákonné předkupní právo státu. Příkaz se od pouhého dovolení liší tím, že jeho nesplnění je veřejnoprávně vynutitelné a bývá spjato s deliktní odpovědností.
+
+Judikatura ukazuje, že příkazová (povinnostní) struktura ZArch je vrstevnatá: úřad může autoritativním rozhodnutím **měnit obsah povinnosti** původce (komu ji plnit), a nesplnění řady dílčích povinností spisové služby zákon kvalifikuje jako pořádkové delikty.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 25 odst. 1 písm. a) | je povinen | „je povinen udržovat archiválii v dobrém stavu, chránit ji před poškozením, znehodnocením, zničením, ztrátou a odcizením" | Aktivní materiální péče vlastníka/držitele o analogovou archiválii jako veřejnoprávně vynutitelná povinnost konat. |
+| § 28 odst. 1 | je … povinen … nabídnout | „je její vlastník povinen přednostně ji nabídnout ke koupi České republice" | Zákonné předkupní právo státu — vlastníkovi je uložena povinnost před převodem archiválii přednostně nabídnout ČR. |
+
+- *NSS* [6 As 96/2021 - 26](judikatura/NSS-6-As-96-2021-26.md) — rozsudek z 15. 7. 2021, přenesení předarchivní péče podle § 44 písm. q)
+  > „Stěžovatel rozhodnutím podle tohoto zákona ukládá původci povinnost svěřit archiválie do péče jiného než příslušného archivu."
+- *NSS* [57 A 19/2020 - 62](judikatura/NSS-57-A-19-2020-62.md) — rozsudek z 2. 3. 2021, pořádkové delikty na úseku spisové služby
+  > „V prvním případě je tímto pořádkem povinnost vést spisovou službu, ve druhém povinnost označovat dokumenty podle skartačního řádu a spisového a skartačního plánu spisovými znaky, skartačními znaky a skartačními lhůtami"
+
+### Zákaz
+
+Zákaz je modalita ukládající povinnost zdržet se určitého jednání (omittere). ZArch jej používá k **ochraně předmětu probíhajícího řízení** (§ 29 odst. 6 — nemožnost vývozu archiválie, o jejímž prohlášení za kulturní památku se rozhoduje) a k **vymezení mezí práva na přístup** (§ 38 odst. 1 — odepření nahlížení při naplnění taxativních důvodů). Normativní výrazy „nelze" a „se odepře" mají formu neosobní: nezakládají volní prostor adresáta, nýbrž objektivně vylučují dovolenost jednání, resp. zavazují archiv k negativnímu úkonu.
+
+Zákaz odepření nahlížení je zároveň procesně ukotven: naplnění zákazu se projeví v řízení, pro které — jak zdůrazňuje judikatura — buď neplatí správní řád, nebo se naopak subsidiárně užije (podle povahy úkonu a fáze).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 29 odst. 6 | nelze … vyvézt | „nelze do doby vydání rozhodnutí nebo nařízení vlády vyvézt z území České republiky" | Zákaz vývozu archiválie, o jejímž prohlášení za kulturní památku probíhá řízení — ochrana předmětu řízení do rozhodnutí. |
+| § 38 odst. 1 | se odepře | „Nahlížení do archiválií uložených v archivu se odepře, jestliže" | Taxativní důvody, při jejichž naplnění je archiv povinen nahlížení odepřít; vymezení mezí práva na přístup. |
+
+- *ÚS* [Pl.ÚS 25/07](judikatura/US-Pl-S-25-07.md) — nález z 13. 3. 2008, procesní režim odepření nahlížení
+  > „podle obecného zákona o archivnictví a spisové službě platí, že nahlížení do archiválií a pořízení výpisu, opisu nebo kopie archiválií lze odmítnout postupem, pro který neplatí správní řád"
+- *NSS* [5 As 165/2018 - 104](judikatura/NSS-5-As-165-2018-104.md) — rozsudek z 20. 7. 2020, subsidiarita správního řádu u nahlížení dle § 38
+  > „i v případě zákona o archivnictví, který upravuje možnost nahlížení do archiválií (srov. např. § 38 zákona o archivnictví), se na řízení podle tohoto zákona použije obecných předpisů upravujících řízení před správními orgány."
+
+### Dovolení
+
+Dovolení ponechává adresátovi **volní prostor** — určité jednání není ani přikázáno, ani zakázáno. V ZArch má dovolení dvojí podobu. Buď je **bezpodmínečné a fakultativní** (§ 26 odst. 1 — vlastník „může odevzdat" archiválii do úschovy), kdy zákon nabízí právní nástroj, jehož využití je na úvaze adresáta. Nebo je **podmíněné** (§ 29 odst. 1 — vyvážet archiválie „lze pouze na základě povolení" ministerstva), kdy zákon jednání dovoluje jen při splnění zákonné podmínky, čímž zavádí kontrolní režim; z hlediska modální struktury jde o dovolení uzavřené do rámce zákazu s výjimkou udělovanou aktem veřejné moci.
+
+Fakultativní alternativu — typický znak dovolení — ilustruje i úprava formy výkonu spisové služby, kde zákon adresátovi otevírá volbu mezi elektronickou a listinnou podobou.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 26 odst. 1 | může odevzdat | „může odevzdat archiválii do úschovy na základě písemné smlouvy o úschově" | Dovolení vlastníkovi svěřit archiválii do úschovy; úprava přechodu veřejnoprávních práv a povinností na schovatele. |
+| § 29 odst. 1 | lze pouze na základě povolení | „Vyvážet archiválie z území České republiky lze pouze na základě povolení ministerstva vydaného na základě žádosti vlastníka nebo držitele archiválie" | Podmíněné dovolení — vývoz je dovolen jen s povolením ministerstva; kontrolní režim ochrany archivního dědictví. |
+
+- *NSS* [57 Af 50/2013 - 38](judikatura/NSS-57-Af-50-2013-38.md) — rozsudek z 31. 3. 2015, alternativní forma výkonu spisové služby
+  > „č. 499/2004 Sb. v § 63 odst. 3 alternativně stanoví, že vykonávají spisovou službu v elektronické podobě v elektronických systémech spisové služby nebo v listinné podobě"
+
+### Zmocnění
+
+Zmocnění je **kompetenční norma**: nepůsobí na jednání adresátů obecně, nýbrž propůjčuje určenému orgánu pravomoc autoritativně utvářet právní poměry. Ačkoli je typickým výrazem rovněž „může", jeho význam je odlišný od dovolení — nejde o volní prostor soukromé osoby, ale o svěřenou působnost veřejné moci. V ZArch se zmocnění projevuje jednak jako **individuální rozhodovací kompetence** (§ 15 odst. 4 — archiv „může vydat" trvalý skartační souhlas, jenž umožňuje ničit dokumenty bez výběru archiválií), jednak — v úrovni celého systému — jako **zmocnění k prováděcím předpisům**, na němž stojí podrobná úprava spisové služby.
+
+Právě zmocňovací (delegační) povaha norem ZArch je předmětem ustálené judikatury: soudy pečlivě zkoumají, zda prováděcí vyhláška zůstává v mezích zákonného zmocnění a jaké důsledky lze z porušení podzákonné povinnosti vyvozovat.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 15 odst. 4 | může … vydat | „Příslušný archiv může na základě žádosti původce vydat trvalý skartační souhlas" | Kompetenční norma zmocňující archiv rozhodnout o trvalém skartačním souhlasu umožňujícím ničit dokumenty bez výběru archiválií. |
+
+- *NSS* [3 As 109/2015 - 58](judikatura/NSS-3-As-109-2015-58.md) — rozsudek z 10. 2. 2016, meze zákonného zmocnění k prováděcí vyhlášce
+  > „§ 18 vyhlášky č. 259/2012 Sb., o podrobnostech výkonu spisové služby, opírající se o zmocňovací ustanovení § 70 odst. 1 písm. i) zákona č. 499/2004 Sb., o archivnictví a spisové službě"
+
+### Oprávnění a povinnost
+
+Oprávnění a povinnost jsou korelativní subjektivní modality: subjektivnímu právu jednoho subjektu odpovídá povinnost subjektu jiného. ZArch tuto korelativitu zřetelně vyvažuje u vlastníka či držitele archiválie — veřejnoprávní zatížení jeho dokumentu (povinnosti péče, nabídková povinnost, strpění výběru) je vyváženo **subjektivním právem na bezplatné informační a poradenské služby** (§ 24 odst. 1). Vedle toho zákon přiznává **privilegované oprávnění** orgánům veřejné moci nahlížet bez omezení do archiválií státu a samospráv (§ 38 odst. 5). Na straně povinnostní stojí jako centrální norma § 3 odst. 1, který vymezuje nositele základní archivní povinnosti (veřejnoprávní původce), a § 14 odst. 1, jenž zakládá věcně široce pojatou **povinnost mlčenlivosti**.
+
+Normativní výrazy oprávnění („má právo", „jsou oprávněny") signalizují dispozitivní pozici oprávněného, zatímco výrazy povinnosti („mají povinnost", „jsou povinni") signalizují vynutitelný závazek. Judikatura potvrzuje, že povinnostní jádro zákona míří především na vnitřní fungování veřejné moci a že oprávnění bývá zakotveno normou zvláštní (lex specialis) vůči obecnému pravidlu ZArch.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 24 odst. 1 | má právo | „Vlastník nebo držitel archiválie má právo na bezplatné poskytování informačních a poradenských služeb" | Subjektivní právo vlastníka na bezplatné poradenství jako kompenzace veřejnoprávního zatížení jeho dokumentu. |
+| § 38 odst. 5 | jsou oprávněny nahlížet | „jsou oprávněny nahlížet v archivech do archiválií, jejichž původcem je stát nebo územní samosprávný celek" | Privilegované oprávnění orgánů veřejné moci nahlížet bez omezení do archiválií státu a samospráv. |
+| § 3 odst. 1 | povinnost … mají | „Povinnost uchovávat dokumenty a umožnit výběr archiválií mají" | Centrální norma vymezující nositele (veřejnoprávní původce) základní archivní povinnosti. |
+| § 14 odst. 1 | jsou povinni | „jsou povinni zachovávat mlčenlivost o všech skutečnostech, které se dozvěděli při výkonu činností podle tohoto zákona" | Věcně široce pojatá povinnost mlčenlivosti zaměstnanců archivů a úřadů. |
+
+- *NSS* [9 Ads 177/2016 - 89](judikatura/NSS-9-Ads-177-2016-89.md) — rozsudek z 14. 9. 2017, oprávnění zakotvené zvláštní normou
+  > „Ustanovení § 123e odst. 2 písm. a) zákona o organizaci pak stanoví oprávnění orgánu sociální správy stanovit pro určité písemnosti (tam, kde je předepsán tiskopis) podávané v elektronické podobě formát, strukturu a tvar dané písemnosti."
+- *NSS* [1 Ans 5/2010 - 172](judikatura/NSS-1-Ans-5-2010-172.md) — rozsudek z 16. 12. 2010, povinnost směřující na vnitřní fungování veřejné moci
+  > „Nejvyšší správní soud samozřejmě nijak nezpochybňuje obecnou povinnost pracovníků institucí vyjmenovaných v § 63 odst. 1 zákona č. 499/2004 Sb., o archivnictví a spisové službě a o změně některých zákonů, předat dokumenty úředního charakteru příslušnému pracovníkovi"
+
+### Domněnky a fikce
+
+ZArch využívá **právní fikci** k tomu, aby dokumenty získané mimo standardní proceduru podřadil pod režim archiválií, aniž by musela proběhnout samostatná procedura výběru. Podle § 11 odst. 5 se dokumenty z akvizice kulturně vědeckých institucí „považují za archiválie vybrané mimo skartační řízení". Výraz „se považují za" je typickým jazykovým signálem fikce (a zároveň nevyvratitelné domněnky ve slabším čtení): normativně prohlašuje určitý dokument za archiválii vybranou mimo skartační řízení a připojuje k němu tentýž právní režim, jaký by jinak nastal až po provedení výběru. Fikce zde plní funkci **legislativní ekonomie** — odbourává nutnost duplicitní procedury tam, kde je kulturně vědecká hodnota již ověřena povahou akvizice.
+
+Na rozdíl od vyvratitelné domněnky, která by připouštěla důkaz opaku a přesouvala důkazní břemeno, fikce v § 11 odst. 5 opak nepřipouští: jde o kategorické normativní stanovení. Význam fikce se projeví navazujícím režimem ochrany (evidence, péče, meze skartace), jenž se na takto „vybrané" archiválie uplatní stejně jako na archiválie vybrané řádnou procedurou.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 11 odst. 5 | se považují za | „se považují za archiválie vybrané mimo skartační řízení" | Právní fikce, podle níž se dokumenty z akvizice kulturně vědeckých institucí bez samostatné procedury pokládají za archiválie vybrané mimo skartační řízení. |
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Jednotlivé modality v ZArch nestojí izolovaně; v klíčových institutech se **skládají do vrstvených konstrukcí**, v nichž teprve jejich souhra vytváří funkční právní režim.
+
+- **Životní cyklus dokumentu u původce (povinnost — zmocnění — fikce).** Základní povinnostní jádro tvoří § 3 odst. 1 („Povinnost uchovávat dokumenty a umožnit výběr archiválií mají"). Na ně navazuje zmocňovací § 15 odst. 4, jímž archiv „může vydat" trvalý skartační souhlas — kompetence, která povinnostní režim procesně odlehčuje. Krajní bod cyklu pak řeší fikce § 11 odst. 5, která dokumenty z akvizice KVI „považuje za" archiválie vybrané mimo skartační řízení. Povinnost, zmocnění a fikce tak společně pokrývají vznik, procesní správu i mimořádné podřazení pod archivní ochranu.
+
+- **Ochrana archiválie u vlastníka (příkaz — oprávnění — zákaz).** Vlastník je vázán příkazem materiální péče (§ 25 odst. 1 písm. a — „je povinen udržovat archiválii v dobrém stavu") a nabídkovou povinností zakládající předkupní právo státu (§ 28 odst. 1 — „je … povinen … nabídnout"). Toto zatížení je vyváženo subjektivním oprávněním na bezplatné služby (§ 24 odst. 1 — „má právo"). Při převodu přes hranice se přidává zákazová/podmíněná vrstva (§ 29 odst. 1 „lze pouze na základě povolení", § 29 odst. 6 „nelze … vyvézt").
+
+- **Přístup k archiváliím (zákaz — oprávnění).** Právo na přístup je konstruováno jako střet dvou modalit: zákaz odepření (§ 38 odst. 1 — „se odepře") vymezuje meze přístupu vůči běžnému badateli, zatímco privilegované oprávnění (§ 38 odst. 5 — „jsou oprávněny nahlížet") tyto meze pro orgány veřejné moci u archiválií státu a samospráv prolamuje. Nad oběma stojí povinnost mlčenlivosti (§ 14 odst. 1 — „jsou povinni"), která přístup k citlivým skutečnostem uzavírá zpět do režimu ochrany.
+
+### Přehledová tabulka — modalita → normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | je povinen; je … povinen … nabídnout | § 25 odst. 1 písm. a); § 28 odst. 1 |
+| Zákaz | nelze … vyvézt; se odepře | § 29 odst. 6; § 38 odst. 1 |
+| Dovolení | může odevzdat; lze pouze na základě povolení | § 26 odst. 1; § 29 odst. 1 |
+| Zmocnění | může … vydat | § 15 odst. 4 |
+| Oprávnění | má právo; jsou oprávněny nahlížet | § 24 odst. 1; § 38 odst. 5 |
+| Povinnost | povinnost … mají; jsou povinni | § 3 odst. 1; § 14 odst. 1 |
+| Domněnka/fikce | se považují za | § 11 odst. 5 |
